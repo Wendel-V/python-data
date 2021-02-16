@@ -1,2 +1,2 @@
-# python-data
-Python for data science learning
+# python-data-lab
+Learning Python for Data Science 
